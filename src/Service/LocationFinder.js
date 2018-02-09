@@ -1,4 +1,6 @@
 
+import 'whatwg-fetch';
+
 export default class LocationFinder {
     /**
      * @param {string} url - url to the endpoint. It should contain two parameters:
