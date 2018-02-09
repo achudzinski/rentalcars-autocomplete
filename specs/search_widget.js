@@ -72,8 +72,6 @@ describe('Using search widget ', function() {
         expect(foundItems.get(0).getAttribute('class')).toBe('no-results');
     });
 
-    typeInFieldAndWaitForAjax('XXXXXXX');
-
     it('hides list of results if only one character is left in field', function() {
         typeInFieldAndWaitForAjax('ne');
 
