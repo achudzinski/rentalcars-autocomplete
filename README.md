@@ -21,6 +21,7 @@ in configuration file `config/config.dev.json`.
 
 ```bash
 npm install
+./node_modules/protractor/bin/webdriver-manager update
 ```
 
 <h2>Usage</h2>
