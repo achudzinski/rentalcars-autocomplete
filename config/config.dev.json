@@ -1,5 +1,5 @@
 {
     "maxNumberOfResults": 6,
-    "autocompleteSearchUrl": "https://www.rentalcars.com/FTSAutocomplete.do?solrIndex=fts_en&solrRows={number_of_results_required}&solrTerm={search_term}",
+    "autocompleteSearchUrl": "https://cors.io/?https://www.rentalcars.com/FTSAutocomplete.do?solrIndex=fts_en&solrRows={number_of_results_required}&solrTerm={search_term}",
     "searchDelay": 300
 }
